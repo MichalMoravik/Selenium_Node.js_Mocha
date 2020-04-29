@@ -1,3 +1,6 @@
+# ignore my Selenium IDE file (just to not mix it - you don't need this)
+seleniumCode.js
+
 # Logs
 logs
 *.log
